@@ -1,0 +1,22 @@
+# Scansioniamo insieme
+
+- andare in archivio:
+- recupero documenti
+- per ogni documento assegno un numero
+- riordino documenti in ordine numerico
+- andare alla fotocopiatrice
+- controllo se è accesa:
+  - SE è accesa:
+    - procedi a scansionare
+  - ALTRIMENTI:
+    - accendi
+- PER OGNI foglio:
+  - scansionare: - apro sportello - inserisco foglio fronte - chiudo sportello - premo pulsante avvio scansione - balletto mentre scansiona - apro sportello - recupero foglio - controllo il foglio: - SE è fronte-retro: - reinserisco foglio nel vano dalla parte retro - chiudo sportello - premo pulsante "avvio scansione" - balletto mentre scansiona - apro sportello - recupero foglio - premo pulsante "termina scansione" - procedi a catalogare - ALTRIMENTI: - premo pulsante "termina scansione" - procedi a catalogare
+  - catalogare:
+    - prendo il foglio lo metto nella scatola "file digitalizzati"
+  - digitalizzazione:
+    - Vai a display fotocopiatrice:
+      - premi pulsante "invio file in locale"
+      - rinomino file in base al ordine numerico prestabilito
+      - inserisco e-mail server locale
+      - invio
